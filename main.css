@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif, arial;
+}
+
+#Btcprice {
+    font-size: 2em;
+    text-align: center;
+}
